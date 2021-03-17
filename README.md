@@ -7,9 +7,11 @@
 -->
 # Combination Generator Tool
 
-A simple tool for generating test cases or test data using one of two methods: All Pairs or Orthogonal Array Testing.\n
-Generated test cases will be in the format: Test case {num} of {test_case_statement}: (parameter = variable) ... (n_parameter = n_variable)\n
-Generated test data will be in the format: Dataset {num}: {"key": "value" ,..., "n_key": "n_value"}\n
+A simple tool for generating test cases or test data using one of two methods: All Pairs or Orthogonal Array Testing.
+
+Generated test cases will be in the format: Test case {num} of {test_case_statement}: (parameter = variable) ... (n_parameter = n_variable)
+
+Generated test data will be in the format: Dataset {num}: {"key": "value" ,..., "n_key": "n_value"}
 
 ## Getting Started
 
