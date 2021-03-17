@@ -1,7 +1,7 @@
 '''
 Author: Desmond Goh
 Date: 2021-03-11 23:37:34
-LastEditTime: 2021-03-16 22:54:43
+LastEditTime: 2021-03-17 10:01:41
 LastEditors: Desmond Goh
 FilePath: /Combination_Generator_Tool/combination_generator_tool.py
 '''
@@ -27,7 +27,7 @@ class CombinationGeneratorTool:
         '''
         self.window = tk.Tk()
         self.window.title(tool_name)
-        self.window.geometry('1200x700+300+150')
+        self.window.geometry('1200x800+350+100')
 
         self.scrollable_frame = ScrollableFrame(self.window)
         self.scrollable_frame.add_vertical_scrollbar()
